@@ -5,7 +5,7 @@ Author: Theme Road
 Donate link: 
 Tags: easy, flexible, very lightweigt, post ,recent view post by category, category, 
 Requires at least: 3.5
-Tested up to: 4.1
+Tested up to: 4.2.1
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -23,16 +23,14 @@ Plugin Features
 * You can use it in posts, pages or widgets.
 
  
-* [Our Others WordPress Plugins](https://wordpress.org/plugins/search.php?q=bestthemeroad)
- * [Easy Responsive Google Map](https://wordpress.org/plugins/easy-responsive-google-map/)
- * [Amazing Pricing Table](https://wordpress.org/plugins/amazing-pricing-table/)
- * [Developers Total Widgets](https://wordpress.org/plugins/developers-total-widgets/)
- * [Perfect Client Testimonial](https://wordpress.org/plugins/perfect-client-testimonial/)
- * [TR Easy Google Analytics ](https://wordpress.org/plugins/tr-easy-google-analytics/)
- * [Nice Responsive WP Faq](https://wordpress.org/plugins/nice-responsive-wp-faq/)
- * [Easy Google Webmaster Tools](https://wordpress.org/plugins/easy-webmaster-tools/)
- * [WP Custom Header Footer](https://wordpress.org/plugins/wp-custom-header-footer/)
- * [TR WP Custom Login Page](https://wordpress.org/plugins/tr-wp-custom-login-page/)
+* [Our Premium Plugins](http://themeroad.net/)
+ * [TR WP Custom Login](http://themeroad.net/product/tr-custom-login/)
+ * [TR Advanced Price Plan Pro](http://themeroad.net/product/tr-advanced-price-plan-pro/)
+ * [TR WooCommerce Image Zoom PRO](http://themeroad.net/product/woocommerce-image-zoom-pro/)
+ * [TR Carousel Slider Pro](http://themeroad.net/product/tr-carousel-slider-pro/)
+ * [TR Logo Slider Pro](http://themeroad.net/product/tr-logo-slider-pro/)
+ * [TR Filterable Portfolio Pro](http://themeroad.net/product/tr-filterable-portfolio-pro/)
+ * [TR Nice Accordion Pro](http://themeroad.net/product/tr-nice-accordion/)
 
 
 == Installation ==
